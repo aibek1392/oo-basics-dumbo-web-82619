@@ -6,7 +6,7 @@ class Shoe
  end
   def cobble
     # shoe.cobble == new.
-    puts "new"
+    
     puts "Your shoe is as good as new!"
   end
   
